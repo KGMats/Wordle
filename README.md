@@ -28,8 +28,8 @@ To run this project, you will need Python 3 and the following libraries:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-    cd your-repository-name
+    git clone [https://github.com/https://github.com/KGMats/Wordle.git](https://github.com/https://github.com/KGMats/Wordle.git)
+    cd Wordle
     ```
 
 2.  **Install the dependencies:**
